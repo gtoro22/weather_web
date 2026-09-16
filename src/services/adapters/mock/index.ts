@@ -1,0 +1,5 @@
+export * from './weather.mock.adapter'
+export * from './finance.mock.adapter'
+export * from './news.mock.adapter'
+export * from './user.mock.adapter'
+export * from './auth.mock.adapter'

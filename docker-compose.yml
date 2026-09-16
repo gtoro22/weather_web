@@ -1,0 +1,7 @@
+services:
+  insight-dashboard:
+    build: .
+    image: insight-dashboard:latest
+    ports:
+      - '8080:80'
+    restart: unless-stopped
