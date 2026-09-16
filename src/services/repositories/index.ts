@@ -1,0 +1,5 @@
+export type { WeatherRepository } from './weather.repository'
+export type { FinanceRepository } from './finance.repository'
+export type { NewsRepository, NewsQuery } from './news.repository'
+export type { UserRepository } from './user.repository'
+export type { AuthRepository } from './auth.repository'
